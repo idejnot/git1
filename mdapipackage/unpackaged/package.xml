@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Insurev1</fullName>
+    <description>Test of loading a package inDX</description>
+    <types>
+        <members>ApexClassUtilities</members>
+        <members>FormattedRecipeDisplayController</members>
+        <members>RecipeTreeViewController</members>
+        <members>RelatedCodeTabsController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Apex_Recipes</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Apex_Recipes</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Apex_Recipes</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>apexRecipesContainer</members>
+        <members>errorPanel</members>
+        <members>formattedDocsViewer</members>
+        <members>formattedRecipeDisplay</members>
+        <members>ldsUtils</members>
+        <members>recipeTreeView</members>
+        <members>relatedCodeTabs</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
+        <members>ApexRecipesIntroWalkthrough</members>
+        <name>Prompt</name>
+    </types>
+    <types>
+        <members>documentation</members>
+        <members>highlight</members>
+        <members>markdownIt</members>
+        <name>StaticResource</name>
+    </types>
+    <version>50.0</version>
+</Package>
